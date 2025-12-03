@@ -9,7 +9,7 @@ Official website for Vatroservis Centar, a company providing professional servic
 
 ## Demo
 
-You can view the live demo here: [Vatroservis Centar Demo](https://ivanpavlovic-web.github.io/sweetForma/)
+You can view the live demo here: [Vatroservis Centar Demo](https://ivanpavlovic-web.github.io/vatroservis-centar/)
 Note: The demo runs as a static website and requires no backend server.
 
 ## Features
